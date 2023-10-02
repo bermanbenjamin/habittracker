@@ -24,16 +24,17 @@
 
 # HabitTracker-NestJS-Backend
 
-Bem-vindo ao repositório HabitTracker-NestJS-Backend, seu centro de controle para gerenciar o backend de um poderoso aplicativo de Rastreamento de Hábitos construído com Nest.js. Este repositório contém todos os componentes essenciais e a lógica necessária para criar um serviço backend robusto e eficiente para rastrear e gerenciar seus hábitos diários.
+Welcome to the HabitTracker-NestJS-Backend repository, your central hub for managing the backend of a powerful Habit Tracking application built with Nest.js. This repository contains all the essential components and logic needed to create a robust and efficient backend service for tracking and managing your daily habits.
 
-## Recursos:
-- **Autenticação de Usuário:** Registro de usuário seguro e autenticação para manter os dados do usuário privados.
-- **Gerenciamento de Hábitos:** Criação, leitura, atualização e exclusão de hábitos com facilidade.
-- **Registro:** Registro abrangente para monitorar atividades do sistema e depurar problemas.
-- **Pontos de Extremidade da API:** Uma API bem estruturada com pontos de extremidade para lidar com operações relacionadas a hábitos.
-- **Persistência de Dados:** Utiliza um sistema de banco de dados para armazenar dados de usuário e hábitos com segurança.
-- **Escalabilidade:** Projetado para ser facilmente escalável para acomodar uma base de usuários em crescimento.
-- **Validação de Dados:** Validação de entrada e tratamento de erros para uma experiência de usuário perfeita.
+## Features:
+- **User Authentication:** Secure user registration and authentication to keep user data private.
+- **Habit Management:** Create, read, update, and delete habits with ease.
+- **Logging:** Comprehensive logging to monitor system activities and debug issues.
+- **API Endpoints:** A well-structured API with endpoints for handling habit-related operations.
+- **Data Persistence:** Utilizes a database system to store user and habit data securely.
+- **Scalability:** Designed to be easily scalable to accommodate a growing user base.
+- **Data Validation:** Input validation and error handling for a seamless user experience.
+- **Customization:** Easily extend or modify the backend to suit your specific needs.
 
 ## Description
 
